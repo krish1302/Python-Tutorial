@@ -10,8 +10,8 @@
     1. self - instance of class itself
     2. constructor - __init__ - it will run whenever the external object is created
     3. constructor overloading is not possible, possible with library method - one class multiple constructor
-    4. class object - self keyword mentioned
-    5. functional object - no self keyword
+    4. class constructor object - self keyword mentioned
+    5. functional parameter object - no self keyword
 
 Naming Convention: snake_case or python_case
 
